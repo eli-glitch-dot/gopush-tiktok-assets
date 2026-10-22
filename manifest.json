@@ -2,7 +2,7 @@
  "repo": "eli-glitch-dot/gopush-tiktok-assets",
  "base_url": "https://raw.githubusercontent.com/eli-glitch-dot/gopush-tiktok-assets/main",
  "timezone": "America/New_York",
- "urls_verified": false,
+ "urls_verified": true,
  "note": "Launch posts only. Slide order = filename order (slide-01 is the cover).",
  "posts": [
   {
