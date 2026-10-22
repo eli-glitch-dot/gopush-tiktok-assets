@@ -1,0 +1,1062 @@
+{
+ "repo": "OWNER/gopush-tiktok-assets",
+ "base_url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main",
+ "timezone": "America/New_York",
+ "urls_verified": false,
+ "note": "Launch posts only. Slide order = filename order (slide-01 is the cover).",
+ "posts": [
+  {
+   "post_id": "post-005",
+   "title": "The pull day I'd give every beginner",
+   "caption": "Pull day workout for beginners: 6 exercises for back and biceps with sets, reps and rest times. About an hour. Save it and run it 1-2x a week. #pullday #backworkout #beginnerworkout #gymtips",
+   "publish_at_et": "2026-10-23T16:00:00-04:00",
+   "slide_count": 9,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-01.jpg",
+     "file": "posts/post-005/slide-01.jpg",
+     "sha256": "d0508d93eebbda9ad51e74acb6ebaa589849c1f5551c66d35214e8dd3e6e310f",
+     "bytes": 104779
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-02.jpg",
+     "file": "posts/post-005/slide-02.jpg",
+     "sha256": "bd6d16461bbdf686182c257b52f968d2640950fc2380bb8f73ea13ed8b16ddf5",
+     "bytes": 72045
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-03.jpg",
+     "file": "posts/post-005/slide-03.jpg",
+     "sha256": "3e830af0d141f86c2a2875415d574540923e3430b10f34176de8f5c002920451",
+     "bytes": 82268
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-04.jpg",
+     "file": "posts/post-005/slide-04.jpg",
+     "sha256": "58fe78089d2221fc427fa973c203a93479c7d7c5c7921afab21cdc768b0ce61b",
+     "bytes": 88092
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-05.jpg",
+     "file": "posts/post-005/slide-05.jpg",
+     "sha256": "f1233ecf940495ab53630aace4033ce22f3fcbf3858d64c4ca8d6f8c3f921661",
+     "bytes": 67577
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-06.jpg",
+     "file": "posts/post-005/slide-06.jpg",
+     "sha256": "ef1e738c4cda39e061973d3008314acffcbe93b7d169ea7e190f15924eb4f451",
+     "bytes": 76078
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-07.jpg",
+     "file": "posts/post-005/slide-07.jpg",
+     "sha256": "18e9a7b1b0325d54a0922e68e085e5ad999869426afe8ec4f2fc4fbc9fabf800",
+     "bytes": 69762
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-08.jpg",
+     "file": "posts/post-005/slide-08.jpg",
+     "sha256": "c0dc6f992cbb96ce15215fa5c57faddb5ac221a7a7f3fbb30e2c463e46b771e7",
+     "bytes": 100544
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-005/slide-09.jpg",
+     "file": "posts/post-005/slide-09.jpg",
+     "sha256": "278f1affb8616996537226b985e95604d535e45ae44776434c60a13fc26e9a30",
+     "bytes": 73203
+    }
+   ]
+  },
+  {
+   "post_id": "post-001",
+   "title": "every lifter's Notes app",
+   "caption": "be honest, how many \"new split FINAL\" notes do you have. If your workout log is a Notes app, send this to your gym partner. #gymhumor #gymtips #gymbeginner",
+   "publish_at_et": "2026-10-23T18:30:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-01.jpg",
+     "file": "posts/post-001/slide-01.jpg",
+     "sha256": "0cc26cb3e00046599a15adcba737b6ecd4327686a9cb41088b5ddaee7c093bc0",
+     "bytes": 134985
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-02.jpg",
+     "file": "posts/post-001/slide-02.jpg",
+     "sha256": "5d529f35f79853bed48b991159dce0a27a192609ea6210ae5f7000874d2179f0",
+     "bytes": 85510
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-03.jpg",
+     "file": "posts/post-001/slide-03.jpg",
+     "sha256": "7ff5aa51737c75016e949b7330327e8ff5eeb0b3868af42b331d52af2c1b06db",
+     "bytes": 77282
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-04.jpg",
+     "file": "posts/post-001/slide-04.jpg",
+     "sha256": "7f2014f793a5eb6689c1bf1a3f7777fae41d083d5cb6e1d93d1d554e0045b8e8",
+     "bytes": 86733
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-05.jpg",
+     "file": "posts/post-001/slide-05.jpg",
+     "sha256": "80b2a9d36b6a6981593765fa82d1c5f5b1b5555157f136a710eacceb2f6d9eec",
+     "bytes": 82942
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-06.jpg",
+     "file": "posts/post-001/slide-06.jpg",
+     "sha256": "6e85389ba576fdae0c6f833b49bd7f3725d841d5fb9978d085d1d2f3ac74e80d",
+     "bytes": 90632
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-001/slide-07.jpg",
+     "file": "posts/post-001/slide-07.jpg",
+     "sha256": "f8243d3c245fca792c7294b4da4243492bba6f01151ecaed8497df6978289545",
+     "bytes": 89335
+    }
+   ]
+  },
+  {
+   "post_id": "post-002",
+   "title": "When to add weight: the 2-for-2 rule",
+   "caption": "How to know when to increase weight: beat your rep goal by 2 on your last set, two workouts in a row, then go up. Simple progressive overload for beginners. Save it for your next session. #progressiveoverload #gymtipsforbeginners #strengthtraining",
+   "publish_at_et": "2026-10-24T10:00:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-01.jpg",
+     "file": "posts/post-002/slide-01.jpg",
+     "sha256": "37f639c9f24d14e8e03d17950c8e9bcc124eeafe617e9cfa8f744f39836318b9",
+     "bytes": 106827
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-02.jpg",
+     "file": "posts/post-002/slide-02.jpg",
+     "sha256": "c67606ba987fd6b260a9c5250e5d80b21d363c72789ce2c6ba803b32195b4444",
+     "bytes": 113625
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-03.jpg",
+     "file": "posts/post-002/slide-03.jpg",
+     "sha256": "c63fd9b6815b26b088e2fe31540710dd4b9bcadf989e5f0f6566caaeb95a2679",
+     "bytes": 98979
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-04.jpg",
+     "file": "posts/post-002/slide-04.jpg",
+     "sha256": "664a89cbf680ef1df740ea4b4f851ad322305a5d31f159e4b3a471b2f41eb9ed",
+     "bytes": 81224
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-05.jpg",
+     "file": "posts/post-002/slide-05.jpg",
+     "sha256": "fddf7146f5e17fd357034bf7dcb224a0d205616413d7e1ceaf0b1137d4f36fd8",
+     "bytes": 101604
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-06.jpg",
+     "file": "posts/post-002/slide-06.jpg",
+     "sha256": "4ccf415f11609dcc6cf9338040b0813a967c959e890f8da63abb3f63423fff88",
+     "bytes": 108005
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-002/slide-07.jpg",
+     "file": "posts/post-002/slide-07.jpg",
+     "sha256": "22f1deb069e673323cb2a50c75f96ae0c4d4e09cde2aa99c0eb4a884100b1456",
+     "bytes": 107369
+    }
+   ]
+  },
+  {
+   "post_id": "post-003",
+   "title": "Triceps exercises ranked by long-head stretch",
+   "caption": "Best triceps exercises for bigger arms, ranked by long-head stretch, how easy they are to progress, and joint comfort. Overhead extensions grew the triceps about 40% more than pushdowns in a 12-week study. What's your S tier? #triceps #armworkout #tierlist #gymtips",
+   "publish_at_et": "2026-10-24T18:00:00-04:00",
+   "slide_count": 9,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-01.jpg",
+     "file": "posts/post-003/slide-01.jpg",
+     "sha256": "2c7dbcc5419d824a5f7411033ea4a1554d3cbd7c24653fcb6787d6a7e82200e6",
+     "bytes": 127124
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-02.jpg",
+     "file": "posts/post-003/slide-02.jpg",
+     "sha256": "6e2d946a0300f7e7ba43fc86c53bd935ee418b7d8a95de9cc1508981bcf68bf9",
+     "bytes": 122776
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-03.jpg",
+     "file": "posts/post-003/slide-03.jpg",
+     "sha256": "2e3a66b79f78773c08b2996943cbeb7a1594836f8b3503b1f8640f9896bfab43",
+     "bytes": 72317
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-04.jpg",
+     "file": "posts/post-003/slide-04.jpg",
+     "sha256": "08d5f68e09e193da6bf8843e638c16f8ba4bef1e3858f8ec108e51c74a136acf",
+     "bytes": 110315
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-05.jpg",
+     "file": "posts/post-003/slide-05.jpg",
+     "sha256": "0f0337ebbf2733cf87cc3948037bf9afcea884f0b5ec5fdac88269b2a07344c4",
+     "bytes": 99940
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-06.jpg",
+     "file": "posts/post-003/slide-06.jpg",
+     "sha256": "b94cb012a44d0c034b2a458a7c00f0788d96c40ebc793e7f941b8293bc5d7135",
+     "bytes": 107217
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-07.jpg",
+     "file": "posts/post-003/slide-07.jpg",
+     "sha256": "e0c3541a5f144010ad70452506c0b7eb82ea120c020ca7f906c413336d467173",
+     "bytes": 91141
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-08.jpg",
+     "file": "posts/post-003/slide-08.jpg",
+     "sha256": "2afd305564032d2c43242085119e62d4b02df3640f9710b65a198c55e1a4a4c5",
+     "bytes": 94373
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-003/slide-09.jpg",
+     "file": "posts/post-003/slide-09.jpg",
+     "sha256": "22a233ae8cec254decf88b3191629a49815a21bbf7a1eb256c91392a1a6b43d3",
+     "bytes": 70393
+    }
+   ]
+  },
+  {
+   "post_id": "post-010",
+   "title": "Leg day for people who hate leg day",
+   "caption": "Leg day workout for beginners, no barbell squats: leg press, RDLs, split squats, leg curls, extensions and calves. Save it and stop skipping leg day. #legday #legworkout #beginnerworkout #gymtips",
+   "publish_at_et": "2026-10-25T10:00:00-04:00",
+   "slide_count": 9,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-01.jpg",
+     "file": "posts/post-010/slide-01.jpg",
+     "sha256": "1f0264194c418bc7068fbacd1be40675f0a743f55a50abe8444640a971ab2103",
+     "bytes": 105766
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-02.jpg",
+     "file": "posts/post-010/slide-02.jpg",
+     "sha256": "6f5f01cc0d4caa9f9aef4bd87c1f81df2067a9f98b98222e66f135eb5dc3c39d",
+     "bytes": 74220
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-03.jpg",
+     "file": "posts/post-010/slide-03.jpg",
+     "sha256": "af1d91712051dd59a61146325cb58612caeb0426cf84ba5c2d8b1149eb98e1df",
+     "bytes": 81551
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-04.jpg",
+     "file": "posts/post-010/slide-04.jpg",
+     "sha256": "068d488998337ebfad39a15a5dd1a3d2f9780deb9b7fd68d02e118a38fa46e91",
+     "bytes": 84552
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-05.jpg",
+     "file": "posts/post-010/slide-05.jpg",
+     "sha256": "432ab7e01c125c8283b8aa3b8f6110b72292a52e6b20d77435b1ad93de9b7e6d",
+     "bytes": 101070
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-06.jpg",
+     "file": "posts/post-010/slide-06.jpg",
+     "sha256": "ef37c997881fe6fdf33b99fa45f61c22fe08f552ed57c713a8de0aec8fe10c81",
+     "bytes": 70566
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-07.jpg",
+     "file": "posts/post-010/slide-07.jpg",
+     "sha256": "ee3f3c950294b6357e5347e44fae53ea52d7574c33de87f91bd7dfdf629de9dc",
+     "bytes": 78271
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-08.jpg",
+     "file": "posts/post-010/slide-08.jpg",
+     "sha256": "291dcddffe8c78de80bbfe9df78530d0ca2b1c5249a037bb02ebddb4418d75db",
+     "bytes": 113467
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-010/slide-09.jpg",
+     "file": "posts/post-010/slide-09.jpg",
+     "sha256": "6153e0ed28e17969d26c88e7b3173530c8d70bd8245f39a7649ee6be9b31afaf",
+     "bytes": 76273
+    }
+   ]
+  },
+  {
+   "post_id": "post-004",
+   "title": "5 reasons you've been stuck at the same weights",
+   "caption": "Stuck at the same weights for months? 5 common reasons lifting progress stalls, and the fix for each. Which number is you? #progressiveoverload #gymbeginner #gymtips #strengthtraining",
+   "publish_at_et": "2026-10-25T16:00:00-04:00",
+   "slide_count": 8,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-01.jpg",
+     "file": "posts/post-004/slide-01.jpg",
+     "sha256": "9613a0f597925d88c39d52e2257810b2c13ccb80f97895726b26799ff412da3f",
+     "bytes": 107502
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-02.jpg",
+     "file": "posts/post-004/slide-02.jpg",
+     "sha256": "7ccf724ed2db43e220b1736cdadf5954bd53043dc07b17db56a9a21b070a254d",
+     "bytes": 93442
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-03.jpg",
+     "file": "posts/post-004/slide-03.jpg",
+     "sha256": "95b14b4512a621145b431e2114e4467cda05c30abadabca9015f8496614ba2e7",
+     "bytes": 89276
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-04.jpg",
+     "file": "posts/post-004/slide-04.jpg",
+     "sha256": "d78b7fff2b4e0cef72987ac04a5475c3dae5ca2e41c90e232990ed9c9edec559",
+     "bytes": 102718
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-05.jpg",
+     "file": "posts/post-004/slide-05.jpg",
+     "sha256": "8fe84959d19d2611511b572b6804cbeb9799117075f6d1af2af822d77e417d07",
+     "bytes": 72189
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-06.jpg",
+     "file": "posts/post-004/slide-06.jpg",
+     "sha256": "acde4f55d72f275d7c262de56860fac781f9a56d165778be79514741fadf9c38",
+     "bytes": 106773
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-07.jpg",
+     "file": "posts/post-004/slide-07.jpg",
+     "sha256": "cd339c7cbf99729f54e8698273d9b46b180afa89ab4ea20791900a5d980976b4",
+     "bytes": 98830
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-004/slide-08.jpg",
+     "file": "posts/post-004/slide-08.jpg",
+     "sha256": "5ed4b303ef51e6ed6e453f469d245cf7cd56b9a7681087341cde230817bbc643",
+     "bytes": 73361
+    }
+   ]
+  },
+  {
+   "post_id": "post-006",
+   "title": "Gym splits ranked for people with school, work and a life",
+   "caption": "Best workout split if you have school or a job: upper/lower, full body, PPL and bro split, ranked by how well they fit a real week. What are you running? #workoutsplit #gymsplit #pushpulllegs #gymtips",
+   "publish_at_et": "2026-10-25T19:00:00-04:00",
+   "slide_count": 9,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-01.jpg",
+     "file": "posts/post-006/slide-01.jpg",
+     "sha256": "48fb7f5c5689b22a32bd0261e1418d7ed5efed3505a7a850c5bd51261f601458",
+     "bytes": 106035
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-02.jpg",
+     "file": "posts/post-006/slide-02.jpg",
+     "sha256": "1489f051ab9c7aa1219a825760bbc0fcf3d9d006af594243bd663e6a03a40952",
+     "bytes": 127596
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-03.jpg",
+     "file": "posts/post-006/slide-03.jpg",
+     "sha256": "c85456343bcd3056455869bfa244d3c42fb200d5e1661fee50d23d8877053e3a",
+     "bytes": 66521
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-04.jpg",
+     "file": "posts/post-006/slide-04.jpg",
+     "sha256": "31afeb48d5f237710b9470983dd6d1ec8b054024687267f0c944b3560fa686e6",
+     "bytes": 68806
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-05.jpg",
+     "file": "posts/post-006/slide-05.jpg",
+     "sha256": "13683c23f0ae70c544163accbed4c9fac3573554dbc9aae537731ddd0902517e",
+     "bytes": 79772
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-06.jpg",
+     "file": "posts/post-006/slide-06.jpg",
+     "sha256": "e6d65cb71a948df2aebcd66700f2ad150e910ff0414c95e6ac115cfee037d25a",
+     "bytes": 73541
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-07.jpg",
+     "file": "posts/post-006/slide-07.jpg",
+     "sha256": "38e5b1f45fe7fb814ee54367870a764a2415feb14ab8d9fbe1a56fdefe9335e2",
+     "bytes": 80050
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-08.jpg",
+     "file": "posts/post-006/slide-08.jpg",
+     "sha256": "03802453c65fb14609069760bec1c5e43d14c24fe5175963289a1691d74ccc58",
+     "bytes": 74268
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-006/slide-09.jpg",
+     "file": "posts/post-006/slide-09.jpg",
+     "sha256": "80067e3fdc623c331888e34945b1048946625f8bea678e8be4f28b32a3c8b656",
+     "bytes": 75230
+    }
+   ]
+  },
+  {
+   "post_id": "post-014",
+   "title": "4 exercise swaps that grew more muscle in studies",
+   "caption": "4 exercise swaps that grew more muscle in studies: overhead triceps extensions, seated leg curls, standing calf raises and incline bench. Study names on every slide. Save it for your next program change. #hypertrophy #musclegrowth #gymtips",
+   "publish_at_et": "2026-10-26T10:00:00-04:00",
+   "slide_count": 8,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-01.jpg",
+     "file": "posts/post-014/slide-01.jpg",
+     "sha256": "f3bcd7acf22ab1b3b918370eb27646c6c23629f68f0edd614f6b7aa59e0f42ce",
+     "bytes": 129074
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-02.jpg",
+     "file": "posts/post-014/slide-02.jpg",
+     "sha256": "9321ff8cd5c0acf8b9c71aba7c58fc1c02427ab73915743db3bf7ad51ce8de7c",
+     "bytes": 96290
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-03.jpg",
+     "file": "posts/post-014/slide-03.jpg",
+     "sha256": "f4b95849ccc6be638043b6a0517773085e3b13162509409cb529fa57333128ee",
+     "bytes": 82707
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-04.jpg",
+     "file": "posts/post-014/slide-04.jpg",
+     "sha256": "b945375d3f775243a9284f9815f5562b9a709740c0662e8a0c3639cfa636b0a0",
+     "bytes": 88268
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-05.jpg",
+     "file": "posts/post-014/slide-05.jpg",
+     "sha256": "069c6fc7b61d923daadd0d83069f76ea2056155c40cc7490116dbfc10bb7e6d1",
+     "bytes": 90893
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-06.jpg",
+     "file": "posts/post-014/slide-06.jpg",
+     "sha256": "2cabea338cfee57686103746d0133c9fbbcbe77a378ee375706e94d8a6bc3be3",
+     "bytes": 111612
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-07.jpg",
+     "file": "posts/post-014/slide-07.jpg",
+     "sha256": "1044e3484a09958a604ae699a1d68914a442b46e09122cacfdd1d8ff0da84d27",
+     "bytes": 93452
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-014/slide-08.jpg",
+     "file": "posts/post-014/slide-08.jpg",
+     "sha256": "763df94297ff44209d48b632551d0a32f297bf2dd4b083d98baa89f178eb49e3",
+     "bytes": 74297
+    }
+   ]
+  },
+  {
+   "post_id": "post-009",
+   "title": "texting my gym partner the night before push day",
+   "caption": "\"it felt like 8\" is not a number. Tag the gym partner who remembers nothing. #gymhumor #benchpress #gymtips",
+   "publish_at_et": "2026-10-26T16:00:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-01.jpg",
+     "file": "posts/post-009/slide-01.jpg",
+     "sha256": "fa0805e398c492a6f3ea6103c8449979380b2f64d499ad6446e9a4530a4a4180",
+     "bytes": 87511
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-02.jpg",
+     "file": "posts/post-009/slide-02.jpg",
+     "sha256": "27d4764f451b314c5f3532921cccc3775f4e6fa6c6edf5435ad838a69791c74f",
+     "bytes": 75065
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-03.jpg",
+     "file": "posts/post-009/slide-03.jpg",
+     "sha256": "3e3ed388214673a940e92495a8ec6beab0c7dc43306eec78eab690b25a30a72d",
+     "bytes": 72389
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-04.jpg",
+     "file": "posts/post-009/slide-04.jpg",
+     "sha256": "c9e41baac5f1d28284d528e1456042057cbf87014f590e5b5e9d31cebee682f6",
+     "bytes": 81371
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-05.jpg",
+     "file": "posts/post-009/slide-05.jpg",
+     "sha256": "0571fbd81e0f152cff16f572fe24a0b12223aff550443566dfbf36d3385247e7",
+     "bytes": 81748
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-06.jpg",
+     "file": "posts/post-009/slide-06.jpg",
+     "sha256": "3ca6e1925af697ac5fecd915349fecb254f3d8cd2efc4a2f750ce48e523253c4",
+     "bytes": 79023
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-009/slide-07.jpg",
+     "file": "posts/post-009/slide-07.jpg",
+     "sha256": "878a981410cc887046371c581f01b4209e9ac3811cbad7fc0f3d45660f5abed1",
+     "bytes": 67219
+    }
+   ]
+  },
+  {
+   "post_id": "post-007",
+   "title": "Stop starting every set with 'what did I do last time?'",
+   "caption": "Stop guessing your weights. GOPUSH shows last session's numbers right next to today's sets, so every set has a number to beat. Free on iPhone. Search GOPUSH on the App Store. #workouttracker #gymapp #progressiveoverload",
+   "publish_at_et": "2026-10-26T18:30:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-01.jpg",
+     "file": "posts/post-007/slide-01.jpg",
+     "sha256": "b69b4b57903bad4a2e524c036c7ec889264664d587116c80202df0ae7af25494",
+     "bytes": 97943
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-02.jpg",
+     "file": "posts/post-007/slide-02.jpg",
+     "sha256": "7083fb25b2bff34c460e80e474b479ae0e634a94560b92b22c6b7f63e964edda",
+     "bytes": 83689
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-03.jpg",
+     "file": "posts/post-007/slide-03.jpg",
+     "sha256": "ae6f012c6f2ab2fdb34f51421aade6c2329617a9adbbd51fe7759c421563e6a3",
+     "bytes": 158344
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-04.jpg",
+     "file": "posts/post-007/slide-04.jpg",
+     "sha256": "f0773d3013bc313e0e27cac2b00907389a27edd6393b91afbe4768ab5f28c95a",
+     "bytes": 87253
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-05.jpg",
+     "file": "posts/post-007/slide-05.jpg",
+     "sha256": "b9d2a6557dff0246b28b7424486153a75f8cfe5e5491964ae2aed4eb88306591",
+     "bytes": 124009
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-06.jpg",
+     "file": "posts/post-007/slide-06.jpg",
+     "sha256": "f0792a77a1fc39b947462613047ebec154a8d97479f900fb7c39ca60484240fa",
+     "bytes": 142912
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-007/slide-07.jpg",
+     "file": "posts/post-007/slide-07.jpg",
+     "sha256": "b1d63dc981348b9a7e4ed514e08c5e66b3c1289525a9a3693cea7b430b6165ee",
+     "bytes": 88187
+    }
+   ]
+  },
+  {
+   "post_id": "post-016",
+   "title": "Every biceps curl, ranked (criteria, not vibes)",
+   "caption": "Best biceps exercises ranked: Bayesian curls, incline curls, EZ-bar, preacher, hammer curls and more, judged on tension, how easy they are to progress, and elbow comfort. Drop your S tier. #biceps #armworkout #tierlist #gymtips",
+   "publish_at_et": "2026-10-27T10:00:00-04:00",
+   "slide_count": 8,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-01.jpg",
+     "file": "posts/post-016/slide-01.jpg",
+     "sha256": "85070426e49803ba2e71b8bbc395b3a947556132f3956eccc7d13225da8f0c17",
+     "bytes": 82233
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-02.jpg",
+     "file": "posts/post-016/slide-02.jpg",
+     "sha256": "e12da2e9b11c5dae6bc02421102a15cf1223d65bacb9d39c1c76a7f063f0ff99",
+     "bytes": 72636
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-03.jpg",
+     "file": "posts/post-016/slide-03.jpg",
+     "sha256": "f8cc146166f380eda4841a17c38275c49107c86183f81e4b6f0aa10a45134fc5",
+     "bytes": 100476
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-04.jpg",
+     "file": "posts/post-016/slide-04.jpg",
+     "sha256": "c8fe5472fc71a2ba0a03b01df41dc2683a0c136c386ecbef58f0c757c25b4b82",
+     "bytes": 87201
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-05.jpg",
+     "file": "posts/post-016/slide-05.jpg",
+     "sha256": "5e8565c9b8554dfd49ebdd3dc59675688fc41c446bfb315a0ba6e0aa6dc12b86",
+     "bytes": 95582
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-06.jpg",
+     "file": "posts/post-016/slide-06.jpg",
+     "sha256": "0e940c631b1b45e0c338d67027d0838ed148120b2da0455975e0b7990441006a",
+     "bytes": 85286
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-07.jpg",
+     "file": "posts/post-016/slide-07.jpg",
+     "sha256": "af84480ddd5d742fe82e444e0a0125427719ce1314f22bb67f701663c92aa253",
+     "bytes": 93164
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-016/slide-08.jpg",
+     "file": "posts/post-016/slide-08.jpg",
+     "sha256": "620ebef7d935a77b6e931e4ba332b2d25139a14e33bf8085f65ee0abc4fc1e93",
+     "bytes": 58750
+    }
+   ]
+  },
+  {
+   "post_id": "post-013",
+   "title": "The push day I'd give every beginner",
+   "caption": "Push day workout for beginners: chest, shoulders and triceps in 6 exercises with sets, reps and rest. Pull day and leg day are on our page. #pushday #chestworkout #beginnerworkout #gymtips",
+   "publish_at_et": "2026-10-27T16:00:00-04:00",
+   "slide_count": 9,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-01.jpg",
+     "file": "posts/post-013/slide-01.jpg",
+     "sha256": "4ff1567f986e5d9cc110b63633495bb718807fbea365865680856dca1c6e081f",
+     "bytes": 111757
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-02.jpg",
+     "file": "posts/post-013/slide-02.jpg",
+     "sha256": "071fbadc59d90d680b9e3ea4701a70b1ef442be8a05790e60d99d1afc1909b1b",
+     "bytes": 79884
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-03.jpg",
+     "file": "posts/post-013/slide-03.jpg",
+     "sha256": "a401eca871f608c99169e26b340749fc2a270cd459d1ca8d7a013ec7e85d8d45",
+     "bytes": 82499
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-04.jpg",
+     "file": "posts/post-013/slide-04.jpg",
+     "sha256": "8ff92b611ab0f797b0093d798ecef5ac6069f8c04ae448d7fa5c86817b2946ca",
+     "bytes": 90115
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-05.jpg",
+     "file": "posts/post-013/slide-05.jpg",
+     "sha256": "da0121398a1db339a035a96accf947a3f6545c947b6d33a56a3e46b58d4f43a0",
+     "bytes": 79988
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-06.jpg",
+     "file": "posts/post-013/slide-06.jpg",
+     "sha256": "80510e2bf74c4894924f741af44a47da366967767aaf75fb0e0268fdaef80081",
+     "bytes": 82445
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-07.jpg",
+     "file": "posts/post-013/slide-07.jpg",
+     "sha256": "611d8fa7f6255c67c08e168a8579641f86ae1ce78caf87f0c697666b79d54c94",
+     "bytes": 87532
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-08.jpg",
+     "file": "posts/post-013/slide-08.jpg",
+     "sha256": "c0dc6f992cbb96ce15215fa5c57faddb5ac221a7a7f3fbb30e2c463e46b771e7",
+     "bytes": 100544
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-013/slide-09.jpg",
+     "file": "posts/post-013/slide-09.jpg",
+     "sha256": "b575fb27ec4c7a6605a3187caf398c70fe626446bf8b91ebf97fbf69c27836c5",
+     "bytes": 76460
+    }
+   ]
+  },
+  {
+   "post_id": "post-018",
+   "title": "Resting 60 seconds between sets might be costing you reps",
+   "caption": "How long to rest between sets: in an 8-week study, 3 minutes beat 1 minute for strength and quad growth. Rest guide for big lifts vs small moves inside. Save it. #hypertrophy #strengthtraining #gymbeginner #gymtips",
+   "publish_at_et": "2026-10-27T18:30:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-01.jpg",
+     "file": "posts/post-018/slide-01.jpg",
+     "sha256": "3f972c84a8f06b0a2d19105a998aca9e7f669e0abf69d1ceffbe7dd24c3ee5b5",
+     "bytes": 115709
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-02.jpg",
+     "file": "posts/post-018/slide-02.jpg",
+     "sha256": "054d122d9c858009e294dea5e279506a22985db02485a057665ebad9a1a79700",
+     "bytes": 110835
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-03.jpg",
+     "file": "posts/post-018/slide-03.jpg",
+     "sha256": "b186534fc496fc64c70897da7c6eb8fa9afebfe45c6c2c8d521c2b25a76f03db",
+     "bytes": 84174
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-04.jpg",
+     "file": "posts/post-018/slide-04.jpg",
+     "sha256": "12432d8d44813cd8f12246887fc34764ff5c20d295131c6cc09c1d03f7e6492f",
+     "bytes": 90228
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-05.jpg",
+     "file": "posts/post-018/slide-05.jpg",
+     "sha256": "54c647cb0f08446c3d9a830422ff1399e58d417c3ac43e64ed8b6eb4c2ae25a1",
+     "bytes": 86471
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-06.jpg",
+     "file": "posts/post-018/slide-06.jpg",
+     "sha256": "5da16251c614dfcb5f62448049a3bc6197a4bed04f4db47c94cc8ef71d92b513",
+     "bytes": 73767
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-018/slide-07.jpg",
+     "file": "posts/post-018/slide-07.jpg",
+     "sha256": "e2d5c53d67c374075858099564e02479792df173659ff4e5e257596b779849f3",
+     "bytes": 70549
+    }
+   ]
+  },
+  {
+   "post_id": "post-025",
+   "title": "How close to failure is close enough?",
+   "caption": "How close to failure should you train? Reps in reserve (RIR) explained, plus a safe way to calibrate it. Save it and write your RIR next to each set. #trainingtofailure #hypertrophy #gymbeginner #gymtips",
+   "publish_at_et": "2026-10-28T10:00:00-04:00",
+   "slide_count": 6,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-01.jpg",
+     "file": "posts/post-025/slide-01.jpg",
+     "sha256": "90c4eaf489da68bfd21f6b64ab6f32dd6fbd0a67f6c78c8b3f3d8cc75c1eb6a1",
+     "bytes": 90599
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-02.jpg",
+     "file": "posts/post-025/slide-02.jpg",
+     "sha256": "b839cd77b05aebe2074ee119aba972c31f18175cb32a8a9e199d27038080dade",
+     "bytes": 98903
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-03.jpg",
+     "file": "posts/post-025/slide-03.jpg",
+     "sha256": "06d06ad05b107dc42646a588c72c5f22b833a221da76e79976213dddcde38828",
+     "bytes": 85161
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-04.jpg",
+     "file": "posts/post-025/slide-04.jpg",
+     "sha256": "286af2a7c5afd575db97e595deb9a3953aa2432a75a247c4a130eda25f58ded8",
+     "bytes": 105661
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-05.jpg",
+     "file": "posts/post-025/slide-05.jpg",
+     "sha256": "c92b50d39dc0daea3bfef97970502c999aeaed92ac4a3d78d5c0e424395dbfb8",
+     "bytes": 125580
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-025/slide-06.jpg",
+     "file": "posts/post-025/slide-06.jpg",
+     "sha256": "7f40100e79c3d474d53c30fd309275357ac722f167438326662053576ae83abc",
+     "bytes": 72070
+    }
+   ]
+  },
+  {
+   "post_id": "post-011",
+   "title": "5 gym takes that start arguments",
+   "caption": "5 gym takes people argue about: machines vs free weights, cardio and muscle, soreness, splits and tracking. Three are backed by research, two are opinions. Which one would you fight about? #fitnesstips #hypertrophy #gymtips",
+   "publish_at_et": "2026-10-28T16:00:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-01.jpg",
+     "file": "posts/post-011/slide-01.jpg",
+     "sha256": "5d2b3af8685514876e1dc299cd84a74d1ff4c7ed0518f49566a5cd5e48eea0f9",
+     "bytes": 90745
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-02.jpg",
+     "file": "posts/post-011/slide-02.jpg",
+     "sha256": "b924ae9042d863ebe09e01fa15b99ffa02c73e5981a1fffb8ae11d3b6cc0776a",
+     "bytes": 103690
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-03.jpg",
+     "file": "posts/post-011/slide-03.jpg",
+     "sha256": "80615de05d15028d72469cb1dad6fe56e31a5bd605d9cc325de2c60fcceb3d6a",
+     "bytes": 95518
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-04.jpg",
+     "file": "posts/post-011/slide-04.jpg",
+     "sha256": "8b6b18cf20de944518b402a8050abba7b7db30a6e6cc6d0b4f0068d29b9503f8",
+     "bytes": 110324
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-05.jpg",
+     "file": "posts/post-011/slide-05.jpg",
+     "sha256": "27c75df1931e9dc4b93dae2bd0391bb237e958835f19a8e0d75611db0e6ee0fd",
+     "bytes": 89674
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-06.jpg",
+     "file": "posts/post-011/slide-06.jpg",
+     "sha256": "d5d6b25b189a08d127816213e4bfe9b425c301fcdef4f992d858b6550df19a2f",
+     "bytes": 95649
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-011/slide-07.jpg",
+     "file": "posts/post-011/slide-07.jpg",
+     "sha256": "b2ada558e3b35fc7e14d32600fd880fd08711e39b8b0153369332f6fc25e439c",
+     "bytes": 62583
+    }
+   ]
+  },
+  {
+   "post_id": "post-017",
+   "title": "Full body, 3 days a week: the plan I'd start with",
+   "caption": "Full body workout plan for beginners, 3 days a week: workout A and B, chest, back and legs every session. Save it and run it for 8 weeks. Build it as a free routine in GOPUSH: search GOPUSH on the App Store. #fullbodyworkout #workoutplan #beginnerworkout #gymtips",
+   "publish_at_et": "2026-10-28T18:30:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-01.jpg",
+     "file": "posts/post-017/slide-01.jpg",
+     "sha256": "fa046789bd56ca8dd63c99b76b5f5292dcc9028314d667dcbada97430bacbb38",
+     "bytes": 112461
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-02.jpg",
+     "file": "posts/post-017/slide-02.jpg",
+     "sha256": "36a43f2860abbeb24da6c541962c73afd94a690f3be52822cafbe6070f9b2a5f",
+     "bytes": 79144
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-03.jpg",
+     "file": "posts/post-017/slide-03.jpg",
+     "sha256": "aec94d557457324667f48db17fc57151c30767cbbf6cf54bfdbedd9485dd82de",
+     "bytes": 92237
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-04.jpg",
+     "file": "posts/post-017/slide-04.jpg",
+     "sha256": "3d3cc015cb2f761c42b15c8502060dabfd924703b6054c18f1a0821adfea25f8",
+     "bytes": 98308
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-05.jpg",
+     "file": "posts/post-017/slide-05.jpg",
+     "sha256": "c8f5dc7068e711cc8981084c3833d12cbbb435650938902f1cab62ae73835ca1",
+     "bytes": 81877
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-06.jpg",
+     "file": "posts/post-017/slide-06.jpg",
+     "sha256": "62cea4d46a3ebe0e21d17b165c4111b114b55627f4de8738434a5f1318734221",
+     "bytes": 100550
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-017/slide-07.jpg",
+     "file": "posts/post-017/slide-07.jpg",
+     "sha256": "ad53ef05dd82c64f4f6ab8bdcdf6d3a1e885246d462e91fdbad4d619416536d6",
+     "bytes": 113605
+    }
+   ]
+  },
+  {
+   "post_id": "post-027",
+   "title": "Every way lifters track workouts, rated",
+   "caption": "Every way to track your workouts, rated: memory, Notes app, notebook, spreadsheet and a tracker app. Yes we're biased. What do you use? GOPUSH is free on iPhone: search GOPUSH on the App Store. #workouttracker #gymapp #gymtips",
+   "publish_at_et": "2026-10-29T10:00:00-04:00",
+   "slide_count": 8,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-01.jpg",
+     "file": "posts/post-027/slide-01.jpg",
+     "sha256": "6b2813a9503e192d866a24e380edbc6d6de213f2c90e78625bf471c06a2598ce",
+     "bytes": 88564
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-02.jpg",
+     "file": "posts/post-027/slide-02.jpg",
+     "sha256": "e576e6088212bf0ef54dfbe55ed7c5d4cafa28e8ce887e135700cc3a2e808b00",
+     "bytes": 60139
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-03.jpg",
+     "file": "posts/post-027/slide-03.jpg",
+     "sha256": "69d8874a2deafdf0ed1f074b63035e8efaad821ceef537f5c1e2c8c233d8c4f8",
+     "bytes": 66838
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-04.jpg",
+     "file": "posts/post-027/slide-04.jpg",
+     "sha256": "6f06111c41c5d03e3bf24d394f5363f879b2bca0a7d7bb9271e629e12099a892",
+     "bytes": 66503
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-05.jpg",
+     "file": "posts/post-027/slide-05.jpg",
+     "sha256": "8cf4fb95098e59b9893285fa84f6e1d965783f79b5f3ecc3f56a245910a6dd7b",
+     "bytes": 68952
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-06.jpg",
+     "file": "posts/post-027/slide-06.jpg",
+     "sha256": "3c3cf31872c54e6d644ff728cad410a28bbe47b9fea353e53ad35bab99333e1c",
+     "bytes": 72999
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-07.jpg",
+     "file": "posts/post-027/slide-07.jpg",
+     "sha256": "2e314523c48a39c83b8884fa3ea479200cbc86d8eba85ac88385650686137945",
+     "bytes": 163888
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-027/slide-08.jpg",
+     "file": "posts/post-027/slide-08.jpg",
+     "sha256": "e35aad1cdfd8eaa7e5235f43adc357fb1f902200d1da21a9c2e69ed858f0db64",
+     "bytes": 89690
+    }
+   ]
+  },
+  {
+   "post_id": "post-021",
+   "title": "Bench stuck for a month? Do these in order.",
+   "caption": "Bench press stuck? Do these 5 fixes in order before you change your program. Most stalls get fixed by steps 1 to 3. Save it for the day your bench stops moving. #benchpress #progressiveoverload #strengthtraining",
+   "publish_at_et": "2026-10-29T16:00:00-04:00",
+   "slide_count": 8,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-01.jpg",
+     "file": "posts/post-021/slide-01.jpg",
+     "sha256": "bee9a2962fdcd137f0473ebde797904204db6a73d8ad3d86fc92c8af6aaae05f",
+     "bytes": 94424
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-02.jpg",
+     "file": "posts/post-021/slide-02.jpg",
+     "sha256": "dfc0a0aa4f3a675f0ee848717d3c6a5997687caff9d6facf875bb2a101f620f8",
+     "bytes": 92015
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-03.jpg",
+     "file": "posts/post-021/slide-03.jpg",
+     "sha256": "b49de362fbb64f91a26ab5d015c2a1e7d9f7074b2ac51c2845e3ffa959c6a91d",
+     "bytes": 77246
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-04.jpg",
+     "file": "posts/post-021/slide-04.jpg",
+     "sha256": "729de8469041a698eb14b403a45119f76e61d7e502bab87cb7a3f37d6d7917eb",
+     "bytes": 88208
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-05.jpg",
+     "file": "posts/post-021/slide-05.jpg",
+     "sha256": "e2654ed3749ac289f158edb767799e811155287ddaaee331b052714afa32a9d5",
+     "bytes": 66905
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-06.jpg",
+     "file": "posts/post-021/slide-06.jpg",
+     "sha256": "99384129fe69ea598034a5b8f50bf4c389955621bdd490eb6f9c1a9ca5fd5b02",
+     "bytes": 76330
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-07.jpg",
+     "file": "posts/post-021/slide-07.jpg",
+     "sha256": "b863c68cd62b0a5a3accd96b996ad2a2d369ac106abedd26b66cc72a4bf867bf",
+     "bytes": 82879
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-021/slide-08.jpg",
+     "file": "posts/post-021/slide-08.jpg",
+     "sha256": "a3d4f0f4b2275c4bbc4b566ca29063c726f2a0559dcef1d7002089692a59a432",
+     "bytes": 80417
+    }
+   ]
+  },
+  {
+   "post_id": "post-008",
+   "title": "The mirror lies. These 3 numbers don't.",
+   "caption": "How to tell if you're actually making progress in the gym: reps at the same weight, weight at the same reps, and hard sets per muscle each week. Save this for your monthly check-in. #gymprogress #progressiveoverload #hypertrophy #gymtips",
+   "publish_at_et": "2026-10-29T18:30:00-04:00",
+   "slide_count": 7,
+   "images": [
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-01.jpg",
+     "file": "posts/post-008/slide-01.jpg",
+     "sha256": "2b3343f793faacc5dce16dfc32d201b3f138b4943d1f98eac8dec44651ac1013",
+     "bytes": 92175
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-02.jpg",
+     "file": "posts/post-008/slide-02.jpg",
+     "sha256": "50042de4333929f2e800c03048d1ae6a3d362d984eab0341e205823c826cc651",
+     "bytes": 75520
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-03.jpg",
+     "file": "posts/post-008/slide-03.jpg",
+     "sha256": "e68a935fa7f55abf8359a5982a1a6299c630d8cc2883f9bde65b450ea5b3de6e",
+     "bytes": 68195
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-04.jpg",
+     "file": "posts/post-008/slide-04.jpg",
+     "sha256": "10adddc40926a74da3cc931e4ec359ed35b0a4c52b6481d6fcd7e3917e9e0e13",
+     "bytes": 96207
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-05.jpg",
+     "file": "posts/post-008/slide-05.jpg",
+     "sha256": "26a954e11a04d03ac5b8cc763b19d53a85d841f0be65534dedfe056be3d3ba75",
+     "bytes": 98240
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-06.jpg",
+     "file": "posts/post-008/slide-06.jpg",
+     "sha256": "4380af5932d18b9a40d44cf33b3938ef7144bf23d18e51f015e6e19a733dcca1",
+     "bytes": 80901
+    },
+    {
+     "url": "https://raw.githubusercontent.com/OWNER/gopush-tiktok-assets/main/posts/post-008/slide-07.jpg",
+     "file": "posts/post-008/slide-07.jpg",
+     "sha256": "ac79bd3403c6b908bb2c01e303f6fc2817410f28df3c88860ebb9bce37a45050",
+     "bytes": 110363
+    }
+   ]
+  }
+ ]
+}
